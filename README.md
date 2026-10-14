@@ -5,7 +5,7 @@ Installere til **eledger**, testmiljøet. Her ligger kun bygget program — inge
 ## Hent
 
 ```
-https://github.com/MortenWesthGit/eledger-dist-test/releases/latest/download/eledger-setup.exe
+https://eledger-server-test.pragmasoft-dk.workers.dev/hent
 ```
 
 Linket peger altid på den nyeste testudgave. Det ændrer sig ikke med versionsnummeret.
